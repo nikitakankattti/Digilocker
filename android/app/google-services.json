@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832568582582",
+    "firebase_url": "https://newfile-92a2c-default-rtdb.firebaseio.com",
+    "project_id": "newfile-92a2c",
+    "storage_bucket": "newfile-92a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832568582582:android:d1fd83b2551ad1040f6117",
+        "android_client_info": {
+          "package_name": "com.example.document_saver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832568582582-h8s715d436j0umb7g9am0hunnnk5ti32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7r8GuI2BW4bay0QBxPoDirk3wq7BLIBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832568582582-h8s715d436j0umb7g9am0hunnnk5ti32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832568582582-2kv1hdefp4s7meq95cftib22gk21fp3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.documentSaverApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
